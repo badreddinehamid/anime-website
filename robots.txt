@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Sitemap: https://anime-world.site/sitemap.xml
+Disallow: /admin/
+Disallow: /admin.php
+Disallow: /manage-*.php
+Disallow: /manage-seo.php
+Disallow: /dashboard_*.php
